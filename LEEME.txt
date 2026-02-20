@@ -1,0 +1,14 @@
+=====================================================
+INSTRUCCIONES TC420 AVIARIO PRO (LINUX)
+=====================================================
+1. Si el programa no detecta el USB, ejecuta:
+   sudo ./instalar_permisos.sh
+
+2. Para abrir el programa, haz doble clic en:
+   TC420_Aviario_Pro
+
+3. Si no abre, dale permisos en la terminal:
+   chmod +x TC420_Aviario_Pro
+
+4. Nota: Usa 'Save' y 'Open' para tus programas .pmf
+=====================================================
